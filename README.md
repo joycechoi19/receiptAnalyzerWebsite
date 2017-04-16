@@ -6,3 +6,15 @@ I used to take pictures of the receipts but that wasn't great either because the
 Our app aims to do 2 things:
 1) Make your paper receipt electronic by simply taking a photo and storing all of them in a easy to navigate UI 
 2) Use image-to-text conversion to make receipts searchable by store name, purchase date, or amount spent
+
+Work that has been done (Alpha):
+Helen:
+Josh:
+Stephanie:
+Joyce: Created user registration, login, and logout using Firebase.
+
+Work that will be done (Beta):
+Helen:
+Josh:
+Stephanie:
+Joyce: Will help Helen with pulling receipt information from database to display on receipt info page in CardView
