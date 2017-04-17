@@ -9,12 +9,12 @@ Our app aims to do 2 things:
 
 Work that has been done (Alpha):
 Helen:
-Josh:
+Josh: integrated API, created "editing screen"
 Stephanie:
 Joyce: Created user registration, login, and logout using Firebase.
 
 Work that will be done (Beta):
 Helen:
-Josh:
+Josh: Transfer tapped text on screen to "editing screen", help move tapped text to database
 Stephanie:
 Joyce: Will help Helen with pulling receipt information from database to display on receipt info page in CardView
