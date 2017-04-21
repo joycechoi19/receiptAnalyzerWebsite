@@ -32,4 +32,4 @@ Our app aims to do 2 things:
   * Transfer tapped text on screen to "editing screen", help move tapped text to database
 * **Stephanie**
 * **Joyce**
-  * Will help Helen with pulling receipt information from database to display on receipt info page in CardView
+  * Will start working on map integration.
