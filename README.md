@@ -24,13 +24,3 @@ Our app aims to do 2 things:
 * **Josh**
 * **Stephanie**
 * **Joyce**
-
-### Work that will be done:
-* **Helen**
-  * ~~Detailed receipt view screen available from display screen in alpha.~~
-  * Pull receipt data from database and remove hardcoded values
-* **Josh**
-  * Transfer tapped text on screen to "editing screen", help move tapped text to database
-* **Stephanie**
-* **Joyce**
-  * Will help Helen with pulling receipt information from database to display on receipt info page in CardView
